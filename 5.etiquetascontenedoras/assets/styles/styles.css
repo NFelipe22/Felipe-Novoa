@@ -1,0 +1,20 @@
+.container{
+    width: 600px;
+    height: auto;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border:2px solid #61D046;
+    image-rendering: pixelated;
+
+}
+.titulos-h2{
+    color:#438B4C;
+}
+.titulos-h3{
+    color: #40C6DE;
+}
+.titulos_h3{
+    color:#40C6DE
+}
